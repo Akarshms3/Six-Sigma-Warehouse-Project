@@ -1,29 +1,29 @@
-Six Sigma Project: Warehouse Picking Error Reduction
+📦 Warehouse Picking Error Reduction using Six Sigma (DMAIC)
 
-Problem
+📌 Problem
 High picking error rate in warehouse operations leading to delays and inefficiencies.
 
-Objective
+🎯 Objective
 Reduce picking errors using Six Sigma DMAIC methodology.
 
-Tools Used
-- Excel
-- Six Sigma DMAIC
+🛠 Tools Used
+- Excel  
+- Six Sigma DMAIC  
 
-Analysis
-- Initial error rate: 50%
-- Wrong item errors contributed 66% of total errors
-- Pareto analysis identified key problem areas
+📊 Analysis
+- Initial error rate: 50%  
+- Wrong item errors contributed 66% of total errors  
+- Pareto analysis identified key problem areas  
 
-Improvement
-- Simulated process improvements (barcode scanning, better labeling)
-- Reduced wrong item errors significantly
+🚀 Improvement
+- Implemented simulated improvements (barcode scanning, labeling)  
+- Reduced wrong item errors significantly  
 
-Results
-- Error rate reduced from 50% to ~30%
-- Primary issue shifted from wrong item to wrong quantity
+📈 Results
+- Error rate reduced from 50% to ~30%  
+- Shift in main issue from wrong item to wrong quantity  
 
-Project Structure
-- data/ → datasets (before & after)
-- analysis/ → charts & Pareto analysis
-- report/ → detailed DMAIC report
+📁 Project Structure
+- Data/ → datasets  
+- Analysis/ → charts and Pareto  
+- Report/ → detailed DMAIC report
