@@ -20,10 +20,11 @@ Reduce picking errors using Six Sigma DMAIC methodology.
 - Reduced wrong item errors significantly  
 
 📈 Results
-- Error rate reduced from 50% to ~30%  
-- Shift in main issue from wrong item to wrong quantity  
+- Error rate reduced from 50% to ~30%
+- Wrong item errors significantly reduced
+- Primary issue shifted to wrong quantity errors
 
 📁 Project Structure
-- Data/ → datasets  
-- Analysis/ → charts and Pareto  
+- Data/ → datasets
+- Analysis/ → charts and Pareto analysis
 - Report/ → detailed DMAIC report
